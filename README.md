@@ -1,9 +1,12 @@
 https://www.youtube.com/watch?v=ix9cRaBkVe0&t=12s
 
 #DAY 1 19 Desember 2024
-sudah belajar Data Tipe berhenti di menit 16:10
+#sudah belajar Data Tipe 
+#berhenti di menit 16:10
 
 #DAY 2 20 Desember 2024
+#sudah belajar TypeCasting, input, penggunaan function 
+#berhenti  di menit 32:45
 
 #DAY 3 21 Desember 2024
 
