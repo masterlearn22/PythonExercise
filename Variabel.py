@@ -19,10 +19,16 @@ print(f"Aku memiliki tinggi {tinggi} dan berat {berat}")
 
 #BOOLEAN dan mengubah jenis data menggunakan if condition
 menikah = False
+jenisKelamin = True
 if(menikah == 0):
      menikah = "belum"
 else:
     menikah = "sudah"
+    
+if jenisKelamin:
+    print("Jenis kelaminku adalah laki-laki")
+else:
+    print("Jenis kelaminku adalah perempuan")
 
 print(f"Status menikahku {menikah}")
 
