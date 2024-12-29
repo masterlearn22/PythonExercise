@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=ix9cRaBkVe0&t=12s
 #sudah belajar TypeCasting, input, penggunaan function 
 #berhenti  di menit 32:45
 
-#DAY 3 21 Desember 2024
+#DAY 3 29 Desember 2024
 #sudah belajar math function dasar 
 #berhenti di menit 41:00
 
