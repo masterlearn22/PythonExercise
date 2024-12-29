@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=ix9cRaBkVe0&t=12s
 #berhenti  di menit 32:45
 
 #DAY 3 29 Desember 2024
-#sudah belajar math function dasar dan slicing string
+#sudah belajar math function dasar dan slicing string, dan if statment
 #berhenti di menit 51:00
 
 #DAY 4 22 Desember 2024
