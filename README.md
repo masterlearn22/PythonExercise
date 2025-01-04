@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=ix9cRaBkVe0&t=12s
 
 #DAY 3 29 Desember 2024
 #sudah belajar math function dasar dan slicing string, dan if statment
-#berhenti di menit 51:00
+#berhenti di menit 1:00:00
 
 #DAY 4 22 Desember 2024
 
