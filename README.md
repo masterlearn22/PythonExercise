@@ -2,20 +2,25 @@ https://www.youtube.com/watch?v=ix9cRaBkVe0&t=12s
 
 #DAY 1 19 Desember 2024
 #sudah belajar Data Tipe 
-#berhenti di menit 16:10
+#berhenti di waktu 16:10
 
 #DAY 2 20 Desember 2024
 #sudah belajar TypeCasting, input, penggunaan function 
-#berhenti  di menit 32:45
+#berhenti  di waktu 32:45
 
 #DAY 3 29 Desember 2024
 #sudah belajar math function dasar dan slicing string, dan if statment
-#berhenti di menit 1:00:00
+#berhenti di waktu 1:00:00
 
-#DAY 4 22 Desember 2024
+#DAY 4  4 Januari 2025
+Membuat calculator math, calculator pengukuran massa berat, calculator suhu
+berhenti di waktu 1:21:00
 
-#DAY 5 23 Desember 2024
+#DAY 5 5 Desember 2024
+Membuat Pace Calculator, logical expressions, Conditional Expressions, string method
+berhenti di waktu 1:30:00
 
-#DAY 6 24 Desember 2024
+#DAY 6 Januari 2025
+String method(lanjutan), 
 
-#DAY 7 25 Desember 2024
+#DAY 7 7 Januari 2025
