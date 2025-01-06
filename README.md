@@ -21,6 +21,7 @@ Membuat Pace Calculator, logical expressions, Conditional Expressions, string me
 berhenti di waktu 1:30:00
 
 #DAY 6 Januari 2025
-String method(lanjutan), 
+String method(lanjutan)
+berhenti di waktu 1:40:00
 
 #DAY 7 7 Januari 2025
