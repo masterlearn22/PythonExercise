@@ -24,4 +24,6 @@ berhenti di waktu 1:30:00
 String method(lanjutan)
 berhenti di waktu 1:40:00
 
-#DAY 7 7 Januari 2025
+#DAY 7 12 Januari 2025
+Belajar tentang while loop, for loop, format_specifiers
+berhenti di waktu 2:11:00

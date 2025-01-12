@@ -38,5 +38,5 @@ def restorant():
     total_harga= (harga_makanan*jumlah_makanan)+(harga_minuman*jumlah_minuman) #menghitung total harga
     print(f"Total harga yang harus anda bayar adalah: Rp {total_harga:,.0f}") #format rupiah
     
-#restorant() #memanggil fungsi beli_barang()
+restorant() #memanggil fungsi beli_barang()
 
