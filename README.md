@@ -25,5 +25,7 @@ String method(lanjutan)
 berhenti di waktu 1:40:00
 
 #DAY 7 12 Januari 2025
-Belajar tentang while loop, for loop, format_specifiers
-berhenti di waktu 2:11:00
+Belajar tentang while loop, for loop, format_specifiers dan membuat bunga pertumbuhan investasi,membuat timer
+Belajar nested_loop, list, set, tuple
+berhenti di waktu 2:38:00
+
