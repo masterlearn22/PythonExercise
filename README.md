@@ -31,3 +31,74 @@ Belajar tentang while loop, for loop, format_specifiers dan membuat bunga pertum
 Belajar nested_loop, list, set, tuple
 berhenti di waktu 2:38:00
 
+#DAY 8 13 Januari 2025
+Belajar 2DList dan membuat keranjang belanja, dial phone, quiz game
+berhenti di waktu 3:03:00
+
+#DAY 9 14 Januari 2025
+Belajar random_number, dictionary, functions dan membuat game kertas batu gunting, dice roller, pembuatan ktp, pemesanan menu, tebak angka
+berhenti di waktu 4:03:00
+
+#DAY 10 15 Januari 2025
+
+
+#DAY 11 16 Januari 2025
+
+
+#DAY 12 17 Januari 2025
+
+
+#DAY 13 18 Januari 2025
+
+
+#DAY 14 19 Januari 2025
+
+
+#DAY 15 20 Januari 2025
+
+
+#DAY 16 21 Januari 2025
+
+
+#DAY 17 22 Januari 2025
+
+
+#DAY 18 23 Januari 2025
+
+
+#DAY 19 24 Januari 2025
+
+
+#DAY 20 25 Januari 2025
+
+
+#DAY 21 26 Januari 2025
+
+
+#DAY 22 27 Januari 2025
+
+
+#DAY 23 28 Januari 2025
+
+
+#DAY 24 29 Januari 2025
+
+
+#DAY 25 30 Januari 2025
+
+
+#DAY 26 31 Januari 2025
+
+
+#DAY 27 1 Februari 2025
+
+
+#DAY 28 2 Februari 2025
+
+
+#DAY 29 3 Februari 2025
+
+
+#DAY 30 4 Februari 2025
+
+
