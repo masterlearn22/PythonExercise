@@ -4,6 +4,10 @@ umur = 20
 tinggi = 183.5
 berat = 70
 mahasiswa = True
+jumlah= "24"
+
+print(jumlah.isdigit())
+print()
 
 #untuk mengetahui tipe data dari variabel
 print(type(nama)) #str

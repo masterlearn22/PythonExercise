@@ -11,7 +11,7 @@ waktu lama menonton course yt python
 #berhenti  di waktu 00:32:45
 
 #DAY 3 29 Desember 2024
-#sudah belajar math function dasar dan slicing string, dan if statment
+#sudah belajar math function dasar, slicing string, if statment
 #berhenti di waktu 1:00:00
 
 #DAY 4  4 Januari 2025
@@ -27,20 +27,24 @@ String method(lanjutan)
 berhenti di waktu 1:40:00
 
 #DAY 7 12 Januari 2025
-Belajar tentang while loop, for loop, format_specifiers dan membuat bunga pertumbuhan investasi,membuat timer
-Belajar nested_loop, list, set, tuple
+Belajar tentang while loop, for loop, format_specifiers, nested_loop, list, set, tuple
+membuat bunga pertumbuhan investasi,membuat timer
 berhenti di waktu 2:38:00
 
 #DAY 8 13 Januari 2025
-Belajar 2DList dan membuat keranjang belanja, dial phone, quiz game
+Belajar 2DList 
+membuat keranjang belanja, dial phone, quiz game
 berhenti di waktu 3:03:00
 
 #DAY 9 14 Januari 2025
-Belajar random_number, dictionary, functions dan membuat game kertas batu gunting, dice roller, pembuatan ktp, pemesanan menu, tebak angka
+Belajar random_number, dictionary, functions 
+membuat game kertas batu gunting, dice roller, pembuatan ktp, pemesanan menu, tebak angka
 berhenti di waktu 4:03:00
 
 #DAY 10 15 Januari 2025
-
+Belajar iterable, keyword_argumen, default_argumen, arg_kwarg_argumen, list_comprehension,match_case,
+membuat membership operatur, nomor kotak
+berhenti di waktu 5:02:00
 
 #DAY 11 16 Januari 2025
 
