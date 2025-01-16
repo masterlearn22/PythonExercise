@@ -3,6 +3,7 @@ https://www.youtube.com/watch?v=ix9cRaBkVe0&t=12s
 waktu lama menonton course yt python
 
 #DAY 1 19 Desember 2024
+
 #sudah belajar Data Tipe 
 #berhenti di waktu 00:16:10
 
