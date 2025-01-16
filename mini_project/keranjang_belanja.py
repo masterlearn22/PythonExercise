@@ -12,7 +12,7 @@ while True:
     food.append(food_item)
     
 # Mengumpulkan harga makanan
-for item in food:
+for item in food: 
     while True:
         try:
             price_item = int(input(f"Masukkan harga untuk {item}: "))

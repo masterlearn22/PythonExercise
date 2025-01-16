@@ -47,7 +47,9 @@ membuat membership operatur, nomor kotak
 berhenti di waktu 5:02:00
 
 #DAY 11 16 Januari 2025
-
+Belajar modules, scope resolution, if_name_main
+Membuat Banking, Slot Machine, Encryption text, hangnam game
+berhenti di waktu 6:32:00
 
 #DAY 12 17 Januari 2025
 
