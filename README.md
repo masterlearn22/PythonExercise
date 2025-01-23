@@ -59,9 +59,9 @@ waktu lama menonton course yt python
 
 
 #DAY 12 23 Januari 2025
-| 
-|
-|
+| Belajar OOP, inheritance, multiple inheritance, super() function, polymorphism
+| berhenti di waktu 7:30:00
+
 
 #DAY  24 Januari 2025
 | 
