@@ -57,97 +57,68 @@ waktu lama menonton course yt python
 | Membuat Banking, Slot Machine, Encryption text, hangnam game
 | berhenti di waktu 6:32:00
 
-#DAY 12 17 Januari 2025
+
+#DAY 12 23 Januari 2025
 | 
 |
 |
 
-#DAY 13 18 Januari 2025
+#DAY  24 Januari 2025
 | 
 |
 |
 
-#DAY 14 19 Januari 2025
+#DAY  25 Januari 2025
 | 
 |
 |
 
-#DAY 15 20 Januari 2025
+#DAY  26 Januari 2025
 | 
 |
 |
 
-#DAY 16 21 Januari 2025
+#DAY  27 Januari 2025
 | 
 |
 |
 
-#DAY 17 22 Januari 2025
+#DAY  28 Januari 2025
 | 
 |
 |
 
-#DAY 18 23 Januari 2025
+#DAY  29 Januari 2025
 | 
 |
 |
 
-#DAY 19 24 Januari 2025
+#DAY  30 Januari 2025
 | 
 |
 |
 
-#DAY 20 25 Januari 2025
+#DAY  31 Januari 2025
 | 
 |
 |
 
-#DAY 21 26 Januari 2025
+#DAY  1 Februari 2025
 | 
 |
 |
 
-#DAY 22 27 Januari 2025
+#DAY  2 Februari 2025
 | 
 |
 |
 
-#DAY 23 28 Januari 2025
+#DAY  3 Februari 2025
 | 
 |
 |
 
-#DAY 24 29 Januari 2025
-| 
-|
-|
-
-#DAY 25 30 Januari 2025
-| 
-|
-|
-
-#DAY 26 31 Januari 2025
-| 
-|
-|
-
-#DAY 27 1 Februari 2025
-| 
-|
-|
-
-#DAY 28 2 Februari 2025
-| 
-|
-|
-
-#DAY 29 3 Februari 2025
-| 
-|
-|
-
-#DAY 30 4 Februari 2025
+#DAY  4 Februari 2025
 | 
 |
 |
