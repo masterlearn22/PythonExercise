@@ -1,0 +1,13 @@
++------+-------------------------------------------------------------------------+
+| Mode |                                Deskripsi                                |
++------+-------------------------------------------------------------------------+
+|  r   |                 Membaca file. Error jika file tidak ada.                |
+|  w   |    Menulis file. Membuat file baru jika tidak ada. Isi file ditimpa.    |
+|  x   |              Membuat file baru. Error jika file sudah ada.              |
+|  a   |       Menambahkan data ke file. Membuat file baru jika tidak ada.       |
+|  b   |                     Mode biner untuk file non-teks.                     |
+|  t   |                     Mode teks untuk file (default).                     |
+|  r+  |           Membaca dan menulis file. Error jika file tidak ada.          |
+|  w+  | Menulis dan membaca file. Membuat file baru atau menimpa isi file lama. |
+|  a+  |   Menambahkan data dan membaca file. Membuat file baru jika tidak ada.  |
++------+-------------------------------------------------------------------------+

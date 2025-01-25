@@ -64,14 +64,14 @@ waktu lama menonton course yt python
 
 
 #DAY  24 Januari 2025
-| 
-|
-|
+| Belajar duck typing, Static Method, class method, magic method, property, decorators, exception handling, writing files(.txt,py and not  json & csv)
+| Membuat file detection, dan membuat berbagai macam tabel dari tabulate, PrettyTable, pandas, textTable
+| berhenti di 8:36:00
 
 #DAY  25 Januari 2025
-| 
-|
-|
+| Belajar writing file(json, csv), reading file(txt,json,csf), dates& times
+| Membuat Alarm Clock
+| Berhenti di 09:06:00
 
 #DAY  26 Januari 2025
 | 

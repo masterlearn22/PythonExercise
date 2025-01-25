@@ -1,0 +1,16 @@
+"
+Tipe 1
+"
+Nama,Umur,Alamat,Hobi,Kota,Makanan_Favorit
+Surya,20,Jl. Dharmawangsa VII,Coding,Surabaya,Pecel
+Dwi,21,Jl. Dharmawangsa VIII,Lari,Jombang,Gado-Gado
+Satria,19,Jl. Dharmawangsa IX,Olahraga,Nganjuk,Sate
+"
+Tipe 2
+"
+Nama,"['Surya', 'Dwi', 'Satria']"
+Umur,"[20, 21, 19]"
+Alamat,"['Jl. Dharmawangsa VII', 'Jl. Dharmawangsa VIII', 'Jl. Dharmawangsa IX']"
+Hobi,"['Coding', 'Lari', 'Olahraga']"
+Kota,"['Surabaya', 'Jombang', 'Nganjuk']"
+Makanan_Favorit,"['Pecel', 'Gado-Gado', 'Sate']"
