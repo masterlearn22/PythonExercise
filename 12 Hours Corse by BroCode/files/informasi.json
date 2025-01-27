@@ -1,0 +1,13 @@
+{
+    "nama": "Surya",
+    "umur": 20,
+    "alamat": "Jl. Dharmawangsa VII",
+    "hobi": [
+        "Coding",
+        "Lari",
+        "Olahraga",
+        "Membaca Buku"
+    ],
+    "kota": "Surabaya",
+    "makanan_favorit": "Pecel"
+}
